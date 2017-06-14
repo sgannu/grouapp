@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+## Welcome to GrouApp
 
-You can use the [editor on GitHub](https://github.com/sgannu/grouapp/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Privacy Policy
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Privacy Notice
+This privacy notice discloses the privacy practices for GrouApp. This privacy notice applies solely to information collected by this app. It will notify you of the following:
 
-```markdown
-Syntax highlighted code block
+As of this release (1.0.0) the app do not read any personal information from mobile device or any accounts on the device.
 
-# Header 1
-## Header 2
-### Header 3
+We do not need any sensitive information from user including credit cards. Do not share any such information in the app messaging groups.
 
-- Bulleted
-- List
+However we take precautions to protect your information. When you submit sensitive information via the app, your information is protected both online and offline.
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sgannu/grouapp/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+If you feel that we are not abiding by this privacy policy, you should contact us immediately via email.
